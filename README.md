@@ -2,6 +2,7 @@
 
 ## Javascript / FrontEnd
 * [Realtime Web clients API integration with Node.Js, Socket.IO, Angular and Redis](http://www.ozkary.com/2018/02/realtime-apps-nodejs-angular-socketio-typescript-redis.html) - Oscar Garcia - [@ozkary](https://twitter.com/ozkary)
+* [VSCode can do that](https://twitter.com/John_Papa/status/975033886588657666) - John Papa - [@John_Papa](https://twitter.com/John_Papa)
 
 ## Azure/Cloud
 
