@@ -23,3 +23,6 @@ https://orlandocodecamp.com/Sessions
 
 ## Coding Skills
 * [A Boy, A Sugar Glider and the TSA](https://www.slideshare.net/BrianClark104/2018-orlando-code-camp-application-security) - Brian Clark - [@_clarkio](https://twitter.com/_clarkio)
+
+## Open Topics
+* [Building More Secure Apps with Two-Factor Authentication](https://github.com/orlandodev/CodeCamp2018) - Will Adams - [@RemoteArchitect](https://twitter.com/RemoteArchitect)
