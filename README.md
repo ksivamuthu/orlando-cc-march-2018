@@ -15,3 +15,6 @@
 
 ## Serverless / Containers
 * [DevOps with Azure, Kubernetes, and Helm](https://github.com/jldeen/dotfiles) - Jessica Deen - [@jldeen](https://twitter.com/jldeen)
+
+## Coding Skills
+* [A Boy, A Sugar Glider and the TSA](https://www.slideshare.net/BrianClark104/2018-orlando-code-camp-application-security) - Brian Clark - [@_clarkio](https://twitter.com/_clarkio)
